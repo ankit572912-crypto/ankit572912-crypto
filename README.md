@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm looking to collaborate on<br>I'm looking for help with<br>Ask me about <br><br>
+
+💡 **I'm looking to collaborate on:**
+AI/ML projects, Python-based applications, and real-world problem-solving systems (like traffic management, automation tools, and analytics dashboards).
+
+<br>🤝 **I'm looking for help with:**
+Advanced AI model deployment, system design, and scaling projects for production-level performance.
+
+<br>💬 **Ask me about:**
+Python, Django, OpenCV projects, AI basics, OOP concepts, and building resume-ready tech projects.
+<br>I'm looking for help with<br>Ask me about <br><br>
 
 
 ## 🌐 Socials:
