@@ -8,7 +8,7 @@ Advanced AI model deployment, system design, and scaling projects for production
 
 <br>💬 **Ask me about:**
 Python, Django, OpenCV projects, AI basics, OOP concepts, and building resume-ready tech projects.
-<br>I'm looking for help with<br>Ask me about <br><br>
+<br>I'm looking for help with<br><br><br>
 
 
 ## 🌐 Socials:
